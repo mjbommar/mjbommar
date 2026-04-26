@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" preserveAspectRatio="xMinYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">mike bommarito</title>
+  <desc id="desc">builder, researcher, educator, advisor</desc>
+  <style>
+    :root { color-scheme: light dark; }
+    .name { font-family: ui-serif, Georgia, "Times New Roman", serif; font-size: 72px; font-weight: 300; letter-spacing: -0.02em; fill: #111; }
+    .tag  { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; font-size: 18px; font-weight: 400; letter-spacing: 0.04em; fill: #555; }
+    .rule { stroke: #ddd; stroke-width: 1; }
+    .dot  { fill: #888; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #f5f5f5; }
+      .tag  { fill: #999; }
+      .rule { stroke: #333; }
+      .dot  { fill: #777; }
+    }
+  </style>
+  <text x="40" y="110" class="name">mike bommarito</text>
+  <line x1="40" y1="140" x2="760" y2="140" class="rule" />
+  <text x="40" y="172" class="tag">builder</text>
+  <circle cx="120" cy="166" r="2" class="dot" />
+  <text x="135" y="172" class="tag">researcher</text>
+  <circle cx="241" cy="166" r="2" class="dot" />
+  <text x="256" y="172" class="tag">educator</text>
+  <circle cx="343" cy="166" r="2" class="dot" />
+  <text x="358" y="172" class="tag">advisor</text>
+</svg>

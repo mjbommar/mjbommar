@@ -1,6 +1,6 @@
-### mike bommarito
-
-builder, researcher, educator, advisor.
+<a href="https://michaelbommarito.com">
+  <img src="./assets/header.svg" alt="mike bommarito — builder, researcher, educator, advisor" width="100%" />
+</a>
 
 #### what i think about
 
@@ -35,8 +35,27 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 ~50 papers, 3,000+ citations across legal informatics, network science, quantitative finance, and ai. *science*, *quantitative finance*, cambridge university press, ssrn, arxiv.
 
+#### recent
+
+<!-- RECENT:START -->
+
+- [tokenizing raw executables for malware analysis with bbpe](https://michaelbommarito.com/wiki/programming/tools/binary-bpe) — *blog* · `2026-03-19`
+- [building a 150K-word english dictionary with llms: opengloss](https://michaelbommarito.com/wiki/programming/tools/opengloss) — *blog* · `2026-03-19`
+- [fast zero-dependency sentence splitting in python with nupunkt](https://michaelbommarito.com/wiki/programming/languages/python/libraries/nupunkt) — *blog* · `2026-03-19`
+- [Parallel Iliad: Brainrot Edition](https://michaelbommarito.com/projects/parallel-iliad) — *blog* · `2026-03-06`
+- [Michigan Energy Infrastructure & Population Density Map](https://michaelbommarito.com/projects/michigan-power-demographics) — *blog* · `2026-03-05`
+- [applied digital -- ai pivot puffery](https://michaelbommarito.com/wiki/datacenters/litigation/applied-digital) — *blog* · `2026-02-22`
+
+<!-- RECENT:END -->
+
 #### everything else
 
 bio, blog, wiki, publications, gallery, bookmarks → [michaelbommarito.com](https://michaelbommarito.com/)
 
 [email](mailto:michael.bommarito@gmail.com) · [linkedin](https://www.linkedin.com/in/bommarito/) · [x](https://x.com/mjbommar/) · [scholar](https://scholar.google.com/citations?user=gIDHq_oAAAAJ&hl=en)
+
+---
+
+<sub><sup>
+<img src="https://github-readme-stats.vercel.app/api?username=mjbommar&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=false&line_height=20&card_width=320&hide=issues&show_icons=false&theme=transparent&text_color=666666&title_color=666666" alt="github stats" align="right" />
+</sup></sub>
