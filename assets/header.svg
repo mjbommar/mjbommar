@@ -6,21 +6,15 @@
     .name { font-family: ui-serif, Georgia, "Times New Roman", serif; font-size: 72px; font-weight: 300; letter-spacing: -0.02em; fill: #111; }
     .tag  { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; font-size: 18px; font-weight: 400; letter-spacing: 0.04em; fill: #555; }
     .rule { stroke: #ddd; stroke-width: 1; }
-    .dot  { fill: #888; }
+    .sep  { fill: #aaa; }
     @media (prefers-color-scheme: dark) {
       .name { fill: #f5f5f5; }
       .tag  { fill: #999; }
       .rule { stroke: #333; }
-      .dot  { fill: #777; }
+      .sep  { fill: #666; }
     }
   </style>
   <text x="40" y="110" class="name">mike bommarito</text>
   <line x1="40" y1="140" x2="760" y2="140" class="rule" />
-  <text x="40.0" y="172" class="tag">builder</text>
-  <circle cx="119.3" cy="166" r="2" class="dot" />
-  <text x="133.3" y="172" class="tag">researcher</text>
-  <circle cx="244.8" cy="166" r="2" class="dot" />
-  <text x="258.8" y="172" class="tag">educator</text>
-  <circle cx="353.8" cy="166" r="2" class="dot" />
-  <text x="367.8" y="172" class="tag">advisor</text>
+  <text x="40" y="172" class="tag">builder<tspan class="sep" dx="0.8em">·</tspan><tspan dx="0.8em">researcher</tspan><tspan class="sep" dx="0.8em">·</tspan><tspan dx="0.8em">educator</tspan><tspan class="sep" dx="0.8em">·</tspan><tspan dx="0.8em">advisor</tspan></text>
 </svg>
