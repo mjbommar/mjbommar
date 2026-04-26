@@ -16,11 +16,11 @@
   </style>
   <text x="40" y="110" class="name">mike bommarito</text>
   <line x1="40" y1="140" x2="760" y2="140" class="rule" />
-  <text x="40" y="172" class="tag">builder</text>
-  <circle cx="120" cy="166" r="2" class="dot" />
-  <text x="135" y="172" class="tag">researcher</text>
-  <circle cx="241" cy="166" r="2" class="dot" />
-  <text x="256" y="172" class="tag">educator</text>
-  <circle cx="343" cy="166" r="2" class="dot" />
-  <text x="358" y="172" class="tag">advisor</text>
+  <text x="40.0" y="172" class="tag">builder</text>
+  <circle cx="119.3" cy="166" r="2" class="dot" />
+  <text x="133.3" y="172" class="tag">researcher</text>
+  <circle cx="244.8" cy="166" r="2" class="dot" />
+  <text x="258.8" y="172" class="tag">educator</text>
+  <circle cx="353.8" cy="166" r="2" class="dot" />
+  <text x="367.8" y="172" class="tag">advisor</text>
 </svg>
