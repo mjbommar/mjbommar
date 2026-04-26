@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# editor swap files
+.*.swp
+*~
+.DS_Store
