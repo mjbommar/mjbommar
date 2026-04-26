@@ -24,13 +24,14 @@ a few things i'm working on or have shipped recently:
 
 - president — [alea institute](https://aleainstitute.ai/) (non-profit; copyright-clean ai for the legal system)
 - ceo — [273 ventures](https://273ventures.com/) (legal data infrastructure)
+- cto — [licens.io](https://licens.io/)
 - ceo — [bommarito consulting](https://bommaritollc.com/)
 
 academic affiliations: codex (stanford), msu college of law (adjunct). past: chicago-kent law lab (head of research), umich complex systems (lecturer).
 
 #### past
 
-ceo, lexpredict (acquired 2018) · cto, licens.io · plus the lexnlp / openedgar / "gpt takes the bar exam" / network-of-supreme-court / complexity-of-the-u.s.-code work people still cite.
+ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the bar exam" / network-of-supreme-court / complexity-of-the-u.s.-code work people still cite.
 
 ~50 papers, 3,000+ citations across legal informatics, network science, quantitative finance, and ai. *science*, *quantitative finance*, cambridge university press, ssrn, arxiv.
 
