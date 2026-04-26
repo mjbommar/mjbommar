@@ -14,16 +14,11 @@ a few things i'm working on or have shipped recently:
 - **[slopython](https://github.com/mjbommar/cpython)** — a "slop" experiment: iteratively evolving cpython with frontier llms to chase performance gains and see what breaks.
 - **[linux uml redesign](https://github.com/mjbommar/linux/tree/uml-redesign-plan)** — rebuilding the linux user-mode-linux kernel from scratch, with notes.
 - **[glaurung](https://github.com/mjbommar/glaurung)** — a new ghidra. modern, scriptable, less crufty.
+- **[nupunkt](https://github.com/alea-institute/nupunkt)** + **[charboundary](https://github.com/alea-institute/charboundary)** — fast, deterministic sentence boundary detection for legal text.
 - **[opengloss](https://github.com/mjbommar/opengloss-rs)** — open english lexical knowledge graph (537k senses, 9m semantic edges, generated end-to-end with llms in under a week for less than \$1k).
 - **[binary-30k](https://huggingface.co/datasets/mjbommar/binary-30k)** + **[binary-bpe tokenizers](https://github.com/mjbommar/binary-bpe)** — first heterogeneous binary-analysis dataset and tokenizers built for executables.
 - **[parallel iliad: brainrot edition](https://michaelbommarito.com/iliad/)** — a parallel greek-english reader of homer's iliad with ai-generated brainrot translations. genuinely useful, also genuinely cursed.
 - **[moratorium nation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6242898)** — 113-page survey of 116 moratoria across 30 states targeting data centers, solar, wind, and batteries.
-
-at the day "jobs":
-
-- **[kl3m](https://aleainstitute.ai/data/)** — copyright-clean training data and language models for legal/financial use. ([kl3m-data](https://github.com/alea-institute/kl3m-data) · [models on hf](https://huggingface.co/alea-institute))
-- **[nupunkt](https://github.com/alea-institute/nupunkt)** + **[charboundary](https://github.com/alea-institute/charboundary)** — fast, deterministic sentence boundary detection for legal text.
-- **[usbills.ai](https://github.com/alea-institute/usbills.ai)** — open-source platform that puts u.s. federal legislation into plain language.
 
 #### day "jobs"
 
