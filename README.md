@@ -39,12 +39,12 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 <!-- RECENT:START -->
 
+- [OpenMPSC Data](https://michaelbommarito.com/projects/openmpsc-data) — *blog* · `2026-04-30`
 - [linux-drivers.com](https://michaelbommarito.com/projects/linux-drivers) — *blog* · `2026-04-01`
 - [tokenizing raw executables for malware analysis with bbpe](https://michaelbommarito.com/wiki/programming/tools/binary-bpe) — *blog* · `2026-03-19`
 - [building a 150K-word english dictionary with llms: opengloss](https://michaelbommarito.com/wiki/programming/tools/opengloss) — *blog* · `2026-03-19`
 - [fast zero-dependency sentence splitting in python with nupunkt](https://michaelbommarito.com/wiki/programming/languages/python/libraries/nupunkt) — *blog* · `2026-03-19`
 - [Parallel Iliad: Brainrot Edition](https://michaelbommarito.com/projects/parallel-iliad) — *blog* · `2026-03-06`
-- [Michigan Energy Infrastructure & Population Density Map](https://michaelbommarito.com/projects/michigan-power-demographics) — *blog* · `2026-03-05`
 
 <!-- RECENT:END -->
 
