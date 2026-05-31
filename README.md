@@ -39,12 +39,12 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 <!-- RECENT:START -->
 
+- [ctrl-F-ing around: how glaurung autonomously discovered a heap overflow in notepad.exe](https://michaelbommarito.com/blog/reading-all-of-notepad-with-an-llm) — *blog* · `2026-05-30`
 - [chunkloris: per-chunk http amplification](https://michaelbommarito.com/wiki/chunkloris) — *blog* · `2026-05-22`
 - [classifying packet payloads with mimelens](https://michaelbommarito.com/wiki/models/mimelens-pcap-classification) — *blog* · `2026-05-22`
 - [mimelens: small encoders for content-type detection on any byte window](https://michaelbommarito.com/wiki/models/mimelens) — *blog* · `2026-05-22`
 - [chunkloris: actix-web (h2c)](https://michaelbommarito.com/wiki/per-chunk-amplification/actix-h2) — *blog* · `2026-05-22`
 - [chunkloris: actix-web](https://michaelbommarito.com/wiki/per-chunk-amplification/actix-web) — *blog* · `2026-05-22`
-- [chunkloris: aioquic HTTP/3 example-style server](https://michaelbommarito.com/wiki/per-chunk-amplification/aioquic-h3) — *blog* · `2026-05-22`
 
 <!-- RECENT:END -->
 
