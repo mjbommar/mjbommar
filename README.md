@@ -39,12 +39,12 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 <!-- RECENT:START -->
 
+- [live kernel-debugging windows drivers in qemu from linux (no windbg, no whpx, no exdi)](https://michaelbommarito.com/wiki/infosec/live-debug-windows-drivers-qemu-gdbstub) — *blog* · `2026-06-20`
 - [ip access control vs x-forwarded-for: two java footguns](https://michaelbommarito.com/wiki/infosec/ip-acl-x-forwarded-for-footguns) — *blog* · `2026-06-19`
 - [tcpip.sys Fse/port-tracker per-message length underflow (kernel OOB read, SEH-caught)](https://michaelbommarito.com/wiki/infosec/tcpip-fse-port-tracker-length-underflow) — *blog* · `2026-06-19`
 - [june 2026 patch tuesday: a patch-diff campaign](https://michaelbommarito.com/wiki/infosec/june-2026-patch-tuesday-patch-diff) — *blog* · `2026-06-10`
 - [glaurung windows driver findings](https://michaelbommarito.com/wiki/infosec/glaurung-windows-driver-findings) — *blog* · `2026-06-10`
 - [ndfltr.sys: a 32-bit offset+length wrap into a kernel OOB read](https://michaelbommarito.com/wiki/infosec/ndfltr-networkdirect-offset-wrap-oob-read) — *blog* · `2026-06-10`
-- [NDKPing.sys: a NULL SystemBuffer deref you can blue-screen on demand](https://michaelbommarito.com/wiki/infosec/ndkping-null-deref-dos) — *blog* · `2026-06-10`
 
 <!-- RECENT:END -->
 
