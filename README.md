@@ -39,12 +39,12 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 <!-- RECENT:START -->
 
+- [pytorch setup with uv](https://michaelbommarito.com/wiki/programming/languages/python/pytorch-setup) — *blog* · `2026-07-20`
 - [minecraft chunk-batch backpressure bypass (MC-308703)](https://michaelbommarito.com/wiki/security/minecraft-chunk-batch-backpressure-dos) — *blog* · `2026-07-15`
 - [KovaPlusFltr.sys: an unprivileged kernel stack overflow in the ROCCAT Kova[+] HID filter driver](https://michaelbommarito.com/wiki/infosec/kovaplusfltr-ioctl-stack-overflow) — *blog* · `2026-06-26`
 - [if-then: the promise rule](https://michaelbommarito.com/wiki/reasoning/explained/if-then-promises) — *blog* · `2026-06-21`
 - [logic, explained simply](https://michaelbommarito.com/wiki/reasoning/explained) — *blog* · `2026-06-21`
 - [the straw man trick](https://michaelbommarito.com/wiki/reasoning/explained/straw-man) — *blog* · `2026-06-21`
-- [live kernel-debugging windows drivers in qemu from linux (no windbg, no whpx, no exdi)](https://michaelbommarito.com/wiki/infosec/live-debug-windows-drivers-qemu-gdbstub) — *blog* · `2026-06-20`
 
 <!-- RECENT:END -->
 
