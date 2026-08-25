@@ -39,12 +39,12 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 <!-- RECENT:START -->
 
-- [pytorch setup with uv](https://michaelbommarito.com/wiki/programming/languages/python/pytorch-setup) — *blog* · `2026-07-20`
-- [minecraft chunk-batch backpressure bypass (MC-308703)](https://michaelbommarito.com/wiki/security/minecraft-chunk-batch-backpressure-dos) — *blog* · `2026-07-15`
-- [Celatim](https://michaelbommarito.com/projects/celatim) — *blog* · `2026-07-10`
-- [KovaPlusFltr.sys: an unprivileged kernel stack overflow in the ROCCAT Kova[+] HID filter driver](https://michaelbommarito.com/wiki/infosec/kovaplusfltr-ioctl-stack-overflow) — *blog* · `2026-06-26`
-- [if-then: the promise rule](https://michaelbommarito.com/wiki/reasoning/explained/if-then-promises) — *blog* · `2026-06-21`
-- [logic, explained simply](https://michaelbommarito.com/wiki/reasoning/explained) — *blog* · `2026-06-21`
+- [bartz v. anthropic: settlement outline and implications](https://michaelbommarito.com/wiki/ai-copyright/bartz-v-anthropic-analysis) — *blog* · `2026-08-24`
+- [cambricon technologies](https://michaelbommarito.com/wiki/ai-hardware/cambricon) — *blog* · `2026-08-24`
+- [china ai hardware decoupling notes](https://michaelbommarito.com/wiki/ai-hardware/china-ai-hardware-decoupling) — *blog* · `2026-08-24`
+- [moore threads](https://michaelbommarito.com/wiki/ai-hardware/moore-threads) — *blog* · `2026-08-24`
+- [openai broadcom custom ai chip partnership](https://michaelbommarito.com/wiki/ai-hardware/openai-broadcom-partnership) — *blog* · `2026-08-24`
+- [sk hynix hbm memory technology and supply chain](https://michaelbommarito.com/wiki/ai-hardware/sk-hynix-hbm) — *blog* · `2026-08-24`
 
 <!-- RECENT:END -->
 
