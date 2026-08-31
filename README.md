@@ -39,12 +39,12 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 <!-- RECENT:START -->
 
+- [Instruction Sets, Programs, and Proofs: Semantics, Equivalence, and Optimization](https://michaelbommarito.com/books/2026-instruction-sets-programs-and-proofs) — *blog* · `2026-08-30`
+- [Instruction Sets, Programs, and Proofs](https://michaelbommarito.com/projects/instruction-sets-programs-and-proofs) — *blog* · `2026-08-27`
 - [bartz v. anthropic: settlement outline and implications](https://michaelbommarito.com/wiki/ai-copyright/bartz-v-anthropic-analysis) — *blog* · `2026-08-24`
 - [cambricon technologies](https://michaelbommarito.com/wiki/ai-hardware/cambricon) — *blog* · `2026-08-24`
 - [china ai hardware decoupling notes](https://michaelbommarito.com/wiki/ai-hardware/china-ai-hardware-decoupling) — *blog* · `2026-08-24`
 - [moore threads](https://michaelbommarito.com/wiki/ai-hardware/moore-threads) — *blog* · `2026-08-24`
-- [openai broadcom custom ai chip partnership](https://michaelbommarito.com/wiki/ai-hardware/openai-broadcom-partnership) — *blog* · `2026-08-24`
-- [sk hynix hbm memory technology and supply chain](https://michaelbommarito.com/wiki/ai-hardware/sk-hynix-hbm) — *blog* · `2026-08-24`
 
 <!-- RECENT:END -->
 
