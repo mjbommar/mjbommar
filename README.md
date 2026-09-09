@@ -39,12 +39,12 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 <!-- RECENT:START -->
 
-- [Instruction Sets, Programs, and Proofs: Semantics, Equivalence, and Optimization](https://michaelbommarito.com/books/2026-instruction-sets-programs-and-proofs) — *blog* · `2026-08-30`
-- [Instruction Sets, Programs, and Proofs](https://michaelbommarito.com/projects/instruction-sets-programs-and-proofs) — *blog* · `2026-08-27`
-- [SHELF](https://michaelbommarito.com/projects/shelf-benchmark) — *blog* · `2026-08-26`
-- [bartz v. anthropic: settlement outline and implications](https://michaelbommarito.com/wiki/ai-copyright/bartz-v-anthropic-analysis) — *blog* · `2026-08-24`
-- [cambricon technologies](https://michaelbommarito.com/wiki/ai-hardware/cambricon) — *blog* · `2026-08-24`
-- [china ai hardware decoupling notes](https://michaelbommarito.com/wiki/ai-hardware/china-ai-hardware-decoupling) — *blog* · `2026-08-24`
+- [broadcom ai semiconductor supply chain](https://michaelbommarito.com/wiki/ai-hardware/broadcom-supply-chain) — *blog* · `2026-09-08`
+- [cambricon technologies](https://michaelbommarito.com/wiki/ai-hardware/cambricon) — *blog* · `2026-09-08`
+- [china ai hardware decoupling notes](https://michaelbommarito.com/wiki/ai-hardware/china-ai-hardware-decoupling) — *blog* · `2026-09-08`
+- [cpu transformer training on zen 4 with avx512-bf16](https://michaelbommarito.com/wiki/ai-hardware/cpu-transformer-training-zen4) — *blog* · `2026-09-08`
+- [moore threads](https://michaelbommarito.com/wiki/ai-hardware/moore-threads) — *blog* · `2026-09-08`
+- [openai and broadcom custom ai accelerator partnership](https://michaelbommarito.com/wiki/ai-hardware/openai-broadcom-partnership) — *blog* · `2026-09-08`
 
 <!-- RECENT:END -->
 
