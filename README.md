@@ -39,12 +39,12 @@ ceo, lexpredict (acquired 2018) · plus the lexnlp / openedgar / "gpt takes the 
 
 <!-- RECENT:START -->
 
+- [linux kernel cves by fix author, 2026](https://michaelbommarito.com/wiki/infosec/linux-kernel-cve-leaderboard-2026) — *blog* · `2026-09-16`
 - [broadcom ai semiconductor supply chain](https://michaelbommarito.com/wiki/ai-hardware/broadcom-supply-chain) — *blog* · `2026-09-08`
 - [cambricon technologies](https://michaelbommarito.com/wiki/ai-hardware/cambricon) — *blog* · `2026-09-08`
 - [china ai hardware decoupling notes](https://michaelbommarito.com/wiki/ai-hardware/china-ai-hardware-decoupling) — *blog* · `2026-09-08`
 - [cpu transformer training on zen 4 with avx512-bf16](https://michaelbommarito.com/wiki/ai-hardware/cpu-transformer-training-zen4) — *blog* · `2026-09-08`
 - [moore threads](https://michaelbommarito.com/wiki/ai-hardware/moore-threads) — *blog* · `2026-09-08`
-- [openai and broadcom custom ai accelerator partnership](https://michaelbommarito.com/wiki/ai-hardware/openai-broadcom-partnership) — *blog* · `2026-09-08`
 
 <!-- RECENT:END -->
 
